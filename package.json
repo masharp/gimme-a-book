@@ -1,0 +1,8 @@
+{
+    "name": "gimme-books",
+    "version": "0.0.1",
+    "main": "service.js",
+    "dependencies": {
+        "axios": "^0.24.0"
+    }
+}
