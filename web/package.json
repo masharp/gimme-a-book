@@ -1,0 +1,23 @@
+{
+    "name": "gimme-a-book-web",
+    "version": "0.0.1",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "axios": "^0.24.0"
+    },
+    "devDependencies": {
+        "@sveltejs/vite-plugin-svelte": "^1.0.0-next.31",
+        "@vitejs/plugin-legacy": "^1.6.4",
+        "autoprefixer": "^10.4.0",
+        "sass": "^1.45.0",
+        "svelte": "^3.44.2",
+        "svelte-preprocess": "^4.9.8",
+        "vite": "^2.7.1"
+    }
+}
